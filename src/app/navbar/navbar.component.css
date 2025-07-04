@@ -1,0 +1,19 @@
+
+  .btn-blue {
+    background-color: #007FFF;
+    color: #fff;
+    border: none;
+  }
+  .btn-blue:hover {
+    background-color: #005FCC;
+  }
+  .badge {
+    font-size: 0.6rem;
+    background-color: #d93025;
+  }
+  .login{
+    background-color: #007FFF;
+    border-radius: 7px;
+    padding: 5px;
+    margin: 5px;
+  }
